@@ -1,2 +1,6 @@
 zapisek44
 44444
+dodana vrstica lokalno -1
+
+
+dodana vrstica lokalno -2
